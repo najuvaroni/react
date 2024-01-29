@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:#e7f9e7 ;
+    font-family: Calibri;
+}
+
+.logo{
+    width: 200px;
+}
+
+.header{
+    background-color: black;
+}
+
+.inp{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+    color: black;
+}
+input{
+    width: 207px;
+    height: 30px;
+
+}
+
+.bttenvia{
+ background-color: #abf5ec;
+    border-radius: 20px;
+    width: 110px;
+    height: 30px;
+    text-decoration: none;
+ }
+.bttexcluir{
+
+    border: none;
+}
+
+.exclu{
+    width: 30px;
+}
